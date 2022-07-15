@@ -1,9 +1,15 @@
+https://d1rkn6vxu8pvu6.cloudfront.net/ - manual/auto deployment to cloudfront
+http://shop-react-redux-cloudfront-v.s3-website.eu-central-1.amazonaws.com/ - manual/auto deployment to S3 (with 403 error)
+
+https://d143a6ginyfy8j.cloudfront.net/ - auto deployment with serverless-single-page-app-plugin to cloudfront
+http://shop-react-redux-cloudfront-v-2.s3-website.eu-central-1.amazonaws.com/ - auto deployment with serverless-single-page-app-plugin to S3 (with 403 error)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:  
-You can use NPM instead of YARN (Up to you)  
+You can use NPM instead of YARN (Up to you)
 
 ### `yarn start` OR `npm run start`
 
