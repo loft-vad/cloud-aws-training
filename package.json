@@ -30,6 +30,7 @@
     "@types/react-redux": "^7.1.7",
     "@types/react-router-dom": "^5.1.5",
     "@types/yup": "^0.29.3",
+    "aws-sdk": "^2.1183.0",
     "axios": "^0.19.2",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
@@ -44,9 +45,9 @@
     "react-scripts": "3.4.1",
     "serverless": "^3.19.0",
     "serverless-finch": "^4.0.0",
+    "serverless-single-page-app-plugin": "file:./serverless-single-page-app-plugin",
     "typescript": "^3.9.5",
-    "yup": "^0.29.1",
-    "serverless-single-page-app-plugin": "file:./serverless-single-page-app-plugin"
+    "yup": "^0.29.1"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
